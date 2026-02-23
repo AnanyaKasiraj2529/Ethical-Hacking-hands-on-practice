@@ -1,18 +1,15 @@
----
+
 
 # 🧪 Testing Against Metasploitable 2 (Controlled Lab Validation)
 
 ## Lab Environment Setup
 
-| Component | Platform |
-|------------|------------|
-| Attacker | Kali Linux (VirtualBox) |
-| Target | Metasploitable 2 (VMware) |
-| Network Mode | NAT |
-| Scan Tool | Nmap |
-| Framework | Python Recon Engine |
+| Attacker - Kali Linux (VirtualBox) |
+| Target - Metasploitable 2 (VMware) |
+| Network Mode -  NAT                |
+| Scan Tool -     Nmap               |
+| Framework -    Python Recon Engine |
 
----
 
 ## Step 1 — Start Metasploitable 2
 
